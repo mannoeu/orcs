@@ -1,0 +1,10 @@
+{
+  "name": "Infraestrutura-Hardware",
+  "version": "1.0.0",
+  "author": "Emmanuel",
+  "scripts": {
+    "make": "make orcs",
+    "clear": "rm *.o",
+    "simulate": "orcs -t"
+  }
+}

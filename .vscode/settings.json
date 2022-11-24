@@ -1,0 +1,9 @@
+{
+  "C_Cpp.formatting": "vcFormat",
+  "files.associations": {
+    ".sequelizerc": "javascript",
+    ".stylelintrc": "json",
+    ".prettierrc": "json",
+    "string": "cpp"
+  }
+}
